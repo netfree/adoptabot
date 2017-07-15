@@ -2,7 +2,7 @@
 
 <img src="https://github.com/netfree/adoptabot/blob/master/logo.jpg" width="240">
 
-Mijloc didactic pentru elevii pasionați de informatică și robotică.
+> **Mijloc didactic pentru elevii pasionați de informatică și robotică.**
 
 **Echipă:**
 Diana Țibre
