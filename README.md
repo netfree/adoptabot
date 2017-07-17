@@ -5,11 +5,11 @@
 > **Mijloc didactic pentru elevii pasionați de informatică și robotică.**
 
 **Echipă:**
-Diana Țibre
+Diana Țibre,
 Andrei Muntean
 
 **Profesori îndrumători:**
-Adriana Chereș
+Adriana Chereș,
 Mihaela Muntean
 
 **Liceu:**
