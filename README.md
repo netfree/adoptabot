@@ -74,7 +74,7 @@ Proiectul a fost un succes.
 
 
 
-**Disclaimer:** 
+## Disclaimer: ##
 
 Prin proiectul acesta nu încercăm să ne asumăm meritele pentru Finch, platformă deja existentă (și open-source), ci vrem doar să demonstrăm că pentru 125$ în total el poate fi combinat cu un Raspberry PI și o baterie pentru a deveni autonom și un mijloc superior în mediul educațional.
 
