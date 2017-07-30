@@ -67,6 +67,9 @@ Ajunși la linia de comandă, am descărcat cu wget fișierele necesare utiliză
 Tot ce ne-a mai rămas de făcut era să facem un fișier cu nano și să scriem codul nostru acolo. Am folosit funcțiile și procedurile Finch-ului pentru a citi valorile senzorilor și de a da comenzi motoarelor.  După asta, am rulat programul cu comanda Python urmat de numele fișierului și a funcționat. 
 Proiectul a fost un succes.
 
+## Rolul fiecărui component al echipei de realizare a proiectului ##
+**Diana** este partea creativă a echipei noastre, aceasta realizând suporturile vizuale de prezentare cât și o parte din documentația proiectului. Probabil că fără entuziasmul de care dă dovadă, nu am fii participat la Etapa județeană.
+**Andrei** este o fire foarte curioasă, creativă și analitică care a venit cu tot felul de soluții ingenioase la diversele probleme pe care le-am întâmpnat în realizarea proiectului. El s-a ocupat mai mult de partea tehnică, ceea ce îl pasionează foarte mult. 
 
 
 
