@@ -4,6 +4,9 @@
 
 > **Mijloc didactic pentru elevii pasionați de informatică și robotică.**
 
+* Link Presentare: goo.gl/z4QbuZ *
+* Resursele folosite se află în fișierul resurseFolosite.md *
+
 **Echipă:**
 Diana Țibre,
 Andrei Muntean
