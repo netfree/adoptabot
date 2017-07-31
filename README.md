@@ -18,6 +18,10 @@ Mihaela Muntean
 **Liceu:**
 Liceul Teoretic **„Nicolae Bălcescu”** Cluj-Napoca
 
+## Despre conținutul proiectului:
+
+Fișierul **server.py** conține codul propriu-zis pe care l-am scris, iar celelalte fișiere sunt fișiere auxiliare, sursa lor fiind menționată în fișierul **resurseFolosite.md**.
+
 ## Misiunea noastră: ##
 
 În primăvara anului 2017, ne-am confruntat cu problema creării **unui robot autonom, cât mai ieftin posibil.** Înțelegem perfect că, din păcate, educația nu dispune de fondurile de care ar trebui să dispună pentru a le da elevilor șansa de a înțelege mai bine noțiunile informatice prin aplicarea lor, asa că ne-am luat misiunea de a găsi cea mai ieftină alternativă.
