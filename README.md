@@ -21,6 +21,7 @@ Liceul Teoretic **„Nicolae Bălcescu”** Cluj-Napoca
 ## Despre conținutul proiectului:
 
 Fișierul **server.py** conține codul propriu-zis pe care l-am scris, iar celelalte fișiere sunt fișiere auxiliare, sursa lor fiind menționată în fișierul **resurseFolosite.md**.
+Fișierul **server.py** conține un algoritm scris cu ajutorul funțiilor și procedurilor predefinite de Finch API care ocolește obstacole și reacționează prin mai multe metode la stimulii din mediu în care se află. (resprectiv temperatură și lumină puternică).
 
 ## Misiunea noastră: ##
 
