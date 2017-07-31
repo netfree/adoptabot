@@ -9,3 +9,15 @@ Tutorial SSH pe Raspberry PI: https://www.raspberrypi.org/documentation/remote-a
 Tutorial NMAP: https://www.linux.com/learn/beginners-guide-nmap
 
 Utilitar identificare adresă MAC pe rețea: https://macvendors.com/
+
+#### Resurse Hardware:
+
+
+
+**Finch Robot**
+
+**Raspberry Pi**
+
+**Baterie externă ASUS ZenPower**
+
+**alte cabluri...**
